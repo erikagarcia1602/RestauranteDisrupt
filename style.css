@@ -1,0 +1,51 @@
+body {
+    width: 700px;
+    height: 700px;
+    margin: 10px auto;
+  }
+  
+  header {
+    background-color: grey;
+    height: 25%;
+  }
+  
+  nav {
+    margin-top: 10px;
+    background-color: pink;
+    height: 10%;
+  }
+  
+  p {
+    height: 50px;
+    background-color: blue;
+    margin: 30px;
+  }
+  
+  aside {
+    width: 25%;
+    height: 100%;
+    margin-top: 10px;
+    background-color: teal;
+    float: left;
+  }
+  #maincontent {
+    float: right;
+    padding: 5px;
+    background-color: green;
+    height: 100%;
+    margin-top: 10px;
+    width: 70%;
+    text-align: center;
+  }
+  
+  footer {
+    margin-top: 10px;
+    background-color: orange;
+    height: 10%;
+  }
+  
+  .clearfix {
+    overflow: hidden;
+    height: 55%;
+  }
+  
